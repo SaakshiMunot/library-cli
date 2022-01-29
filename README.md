@@ -12,4 +12,4 @@ Finally, we implemented our CLI through our `Main.java` file.
 The system can allow multiple users, such as librarians and members, to access it. It allows users to create an account for themselves using their email address and library card information. Librarians also have password protected accounts.
 Once the user is logged in, depending on the role of the user (librarian or member), they have a variety of capabilities available. The librarian can add books, update books, and view the entire database of books. The member can choose a book from a catalog of available books and 'take it out' for themselves. They can also view their user information.
 
-Sehaj Munot (munotsehaj) and Saakshi Munot (munotsaakshi) worked on this project together for HackMCST VI in January 2021.
+Sehaj Munot (munotsehaj) and Saakshi Munot (SaakshiMunot) worked on this project together for HackMCST VI in January 2021.
